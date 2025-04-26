@@ -12,8 +12,8 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/bernardo-bruning/ollama-copilot/internal/handlers"
-	"github.com/bernardo-bruning/ollama-copilot/internal/middleware"
+	"github.com/ton-an/ollama-copilot/internal/handlers"
+	"github.com/ton-an/ollama-copilot/internal/middleware"
 	"github.com/ollama/ollama/api"
 )
 
